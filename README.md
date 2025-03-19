@@ -3,13 +3,13 @@
 <h3 align="center">A passionate frontend developer & Problem solver .</h3>
 
 
-- 💬 Ask me about **Web Dev **
+- 💬 Ask me about **Web Dev, SQL **
 
 - 📫 How to reach me **sandeepvishwakarmagkp5@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sandeep vishwakarma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeep vishwakarma" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sandeep-vishwakarma-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeep vishwakarma" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sandeepv5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sandeepv5" height="30" width="40" /></a>
 </p>
 
